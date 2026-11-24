@@ -53,7 +53,7 @@
 ### 源码运行
 
 ```bash
-git clone https://github.com/<your-name>/classroom-seat-planner.git
+git clone https://github.com/znwwzn/classroom-seat-planner.git
 cd classroom-seat-planner
 python -m pip install -r requirements.txt
 python run.py
